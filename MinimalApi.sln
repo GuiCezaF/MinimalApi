@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{F736077B-69F0-45D7-B731-45524B03C86C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarrinhoCompra", "CarrinhoCompra\CarrinhoCompra.csproj", "{EEE14DE8-4D7E-46D3-B139-5F7C19E5BCD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE14DE8-4D7E-46D3-B139-5F7C19E5BCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE14DE8-4D7E-46D3-B139-5F7C19E5BCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE14DE8-4D7E-46D3-B139-5F7C19E5BCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE14DE8-4D7E-46D3-B139-5F7C19E5BCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EEE14DE8-4D7E-46D3-B139-5F7C19E5BCD5} = {F736077B-69F0-45D7-B731-45524B03C86C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F628B40D-CA40-4607-B3E1-4B23A3347ED3}
+	EndGlobalSection
+EndGlobal
